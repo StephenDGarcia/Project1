@@ -4,7 +4,7 @@ Project 1 - Number Guessing Game
 --------------------------------
 """
 import random
-
+#import sys
 
 def start_game():
     answer = random.randint(1, 10)
